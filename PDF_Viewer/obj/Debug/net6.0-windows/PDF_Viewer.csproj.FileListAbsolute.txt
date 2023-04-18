@@ -1,0 +1,17 @@
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\bin\Debug\net6.0-windows\PDF_Viewer.exe
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\bin\Debug\net6.0-windows\PDF_Viewer.deps.json
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\bin\Debug\net6.0-windows\PDF_Viewer.runtimeconfig.json
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\bin\Debug\net6.0-windows\PDF_Viewer.dll
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\bin\Debug\net6.0-windows\PDF_Viewer.pdb
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\obj\Debug\net6.0-windows\PDF_Viewer.csproj.AssemblyReference.cache
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\obj\Debug\net6.0-windows\PDF_Viewer.Form1.resources
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\obj\Debug\net6.0-windows\PDF_Viewer.csproj.GenerateResource.cache
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\obj\Debug\net6.0-windows\PDF_Viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\obj\Debug\net6.0-windows\PDF_Viewer.AssemblyInfoInputs.cache
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\obj\Debug\net6.0-windows\PDF_Viewer.AssemblyInfo.cs
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\obj\Debug\net6.0-windows\PDF_Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\obj\Debug\net6.0-windows\PDF_Viewer.dll
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\obj\Debug\net6.0-windows\refint\PDF_Viewer.dll
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\obj\Debug\net6.0-windows\PDF_Viewer.pdb
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\obj\Debug\net6.0-windows\PDF_Viewer.genruntimeconfig.cache
+C:\Users\Vision\source\repos\PDF_Viewer\PDF_Viewer\obj\Debug\net6.0-windows\ref\PDF_Viewer.dll
